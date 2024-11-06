@@ -1,0 +1,27 @@
+.main{
+    font-family: "Gill Sans", sans-serif;
+  
+    background-color: rgb(237, 241, 236);
+}
+.first-page{
+
+    
+
+    height: 100vh;
+    
+    /* margin: auto; */
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.inside-first-page{
+    color: black;
+    background-color: white;
+    padding: 50px;
+
+    
+}
